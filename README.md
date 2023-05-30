@@ -1,5 +1,5 @@
 <div align="center" style="background-color: #e6eaf4;">
-    <img src="imagens/logo-faculdade-300.png" 
+    <img src="src/imagens/logo-faculdade-300.png" 
          alt="Texto alternativo" 
          title="Sistema de Controle de Acesso a Ambientes"/>
 </div>
@@ -24,7 +24,7 @@ Vendo a necessidade dos bares e restaurantes da região de Goiânia de uma plata
    O objetivo do Sistema WEB é apresentar melhor os produtos do cardápio, facilitando a realização dos pedidos e gerenciamento das mesas e pedidos, utilizando o acesso via QrCode da mesa ou login do funcionário mantendo o histórico com data e horário de todos os pedidos e atualização do sistema.
 </p>
 <div align="center">
-    <img src="/imagens/ambiente.png" alt="Texto alternativo" />
+    <img src="src/imagens/ambiente.png" alt="Texto alternativo" />
 </div>
 
 <h4> 1.2 - Escopo do Projeto e Requisitos de Software </h4>
@@ -101,14 +101,14 @@ manter o histórico de pedidos de cada mesa, registrando-se data, horário e o f
 <h4> 1.4 - Modelo de Domínio </h2>
 <p>A documentação do modelo Entidade-Relacionamento (ER) é uma etapa crucial no processo de desenvolvimento de um sistema de informação. O modelo ER é usado para representar a estrutura do banco de dados, incluindo as entidades, relacionamentos e atributos. A partir desse modelo, é possível criar um esquema de banco de dados que possa ser implementado em um sistema de gerenciamento de banco de dados (SGBD). Neste documento, apresentaremos o modelo ER para Sistema de Controle de Acesso a Ambientes que contém a descrição detalhada dessa estrutura, incluindo as entidades, relacionamentos, chaves primárias e estrangeiras.</p>
 <div align="center">
-    <img src="imagens/Arquitetura_angular-spring-boot-postgresql.png" alt="Texto alternativo" />
+    <img src="src/imagens/Arquitetura_angular-spring-boot-postgresql.png" alt="Texto alternativo" />
 </div>
 <br>
 <h3> 2 - Arquitetura do Software </h2>
 <p> A arquitetura de software de uma aplicação é o conjunto de decisões de design que definem como os diferentes componentes do sistema se relacionam e interagem entre si. Ela é responsável por garantir que a aplicação seja escalável, segura e capaz de lidar com as demandas dos usuários de forma eficiente. A documentação técnica da arquitetura de software é uma parte fundamental do processo de desenvolvimento, pois ajuda a equipe a entender como o sistema funciona e como cada componente se relaciona com os demais. Neste documento, serão descritos os principais componentes da arquitetura da aplicação, como eles se comunicam e quais são as suas responsabilidades. Além disso, serão apresentadas as principais tecnologias utilizadas na implementação da arquitetura, assim como as decisões de design que levaram à escolha dessas tecnologias.</p>
 
 <div align="center">
-    <img src="imagens/Diagrama_Estrutura_Dados_Bar_Brasil.jpg" alt="Texto alternativo" />
+    <img src="src/imagens/Diagrama_Estrutura_Dados_Bar_Brasil.jpg" alt="Texto alternativo" />
 </div>
 <h4> 1.2 - Tecnologias da implementação </h2>
 <br>
