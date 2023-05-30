@@ -7,7 +7,7 @@
 <br>
 <br>
 <div align="center">
-    <img src="imagens/intro.jpg" alt="Texto alternativo" />
+    <img src="/imagens/intro.jpg" alt="Texto alternativo" />
 </div>
 <br>
 <h2> Sistema WEB para atendimento a clientes de Bares e Restaurantes </h2>
@@ -24,7 +24,7 @@ Vendo a necessidade dos bares e restaurantes da região de Goiânia de uma plata
    O objetivo do Sistema WEB é apresentar melhor os produtos do cardápio, facilitando a realização dos pedidos e gerenciamento das mesas e pedidos, utilizando o acesso via QrCode da mesa ou login do funcionário mantendo o histórico com data e horário de todos os pedidos e atualização do sistema.
 </p>
 <div align="center">
-    <img src="imagens/ambiente.png" alt="Texto alternativo" />
+    <img src="/imagens/ambiente.png" alt="Texto alternativo" />
 </div>
 
 <h4> 1.2 - Escopo do Projeto e Requisitos de Software </h4>
