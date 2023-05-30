@@ -139,6 +139,4 @@ manter o histórico de pedidos de cada mesa, registrando-se data, horário e o f
 <li>Adeilton Borges Moreira</li>
 <li>Erlan Dias Miranda</li>
 <li>Henrique Batista Coelho</li>
-<ul>
-<li></li>
-</ul>
+
