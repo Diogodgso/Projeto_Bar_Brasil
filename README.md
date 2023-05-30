@@ -135,10 +135,10 @@ manter o histórico de pedidos de cada mesa, registrando-se data, horário e o f
 <br>
 <h3> Contatos </h3>
 <br>
-<li>Diogo Souza de Oliveira</li>
+<li>Diogo Souza de Oliveira E-mail: eng.eletricista.diogo@gmail.com</li>
 <li>Adeilton Borges Moreira</li>
 <li>Erlan Dias Miranda</li>
 <li>Henrique Batista Coelho</li>
 <ul>
-<li>E-mail: eng.eletricista.diogo@gmail.com</li>
+<li></li>
 </ul>
