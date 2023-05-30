@@ -7,7 +7,7 @@
 <br>
 <br>
 <div align="center">
-    <img src="/imagens/intro.jpg" alt="Texto alternativo" />
+    <img src="src/imagens/intro.jpg" alt="Texto alternativo" />
 </div>
 <br>
 <h2> Sistema WEB para atendimento a clientes de Bares e Restaurantes </h2>
